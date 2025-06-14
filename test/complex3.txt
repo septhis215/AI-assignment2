@@ -1,0 +1,6 @@
+TELL
+a
+a => b
+~b => c
+ASK
+c
