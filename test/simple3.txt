@@ -1,7 +1,4 @@
 TELL
-m & n => o
-o => p
-n
-
+a || b
 ASK
-p
+a

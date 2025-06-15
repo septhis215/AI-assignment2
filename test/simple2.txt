@@ -1,7 +1,6 @@
 TELL
-x => y
-y & z => w
-z
-
+a
+a => b
+a => c
 ASK
-w
+b & c
