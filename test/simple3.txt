@@ -1,0 +1,7 @@
+TELL
+m & n => o
+o => p
+n
+
+ASK
+p

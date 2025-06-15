@@ -28,21 +28,21 @@ This project implements a propositional logic inference engine in Python. It sup
 ---
 
 RUN IN Command Prompt (CMD)
-iengine.bat <filename> <method>
+iengine <filename> <method>
 
 Example:
-iengine.bat test\simple1.txt FC
-iengine.bat test\complex1.txt TT
+iengine test\simple1.txt FC
+iengine test\complex1.txt TT
 
 RUN IN POWERSHELL
-.\iengine.bat <filename> <method>
+.\iengine <filename> <method>
 
 Example:
-.\iengine.bat test\simple1.txt FC
-.\iengine.bat test\complex1.txt TT
+.\iengine test\simple1.txt FC
+.\iengine test\complex1.txt TT
 
-📄 Test Files
-✅ simple\*.txt — for FC and BC
+📄 Test Files - yan yang
+✅ 4 simple\*.txt — for FC and BC
 These files use only Horn clauses (no negation, disjunction, or biconditional).
 Use them to test Forward Chaining (FC) or Backward Chaining (BC) methods.
 

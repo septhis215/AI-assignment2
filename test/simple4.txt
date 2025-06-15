@@ -1,0 +1,7 @@
+TELL
+r => s
+s => t
+r
+
+ASK
+t

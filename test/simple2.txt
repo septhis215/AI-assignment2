@@ -1,0 +1,7 @@
+TELL
+x => y
+y & z => w
+z
+
+ASK
+w
